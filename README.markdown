@@ -183,25 +183,9 @@ To deploy the app online using Streamlit Community Cloud:
 - Include more detailed nutritional information or recipes for each vegetable.
 - Fine-tune the model further if specific classes are frequently misclassified.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Built with [PyTorch](https://pytorch.org/), [Streamlit](https://streamlit.io/), and [Plotly](https://plotly.com/).
 - Uses MobileNetV2 pre-trained on ImageNet for efficient classification.
 - Dataset sourced from [Kaggle: Vegetable Image Dataset](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset?resource=download).
 
----
-
-**Last Updated**: June 17, 2025
